@@ -11,3 +11,5 @@ opt.numberwidth = 2 -- width of line number column
 opt.wrap = false -- disable line wrapping
 opt.cursorline = true -- highlight current line
 opt.clipboard:append("unnamedplus") -- use system clipboard as default register
+
+vim.cmd.colorscheme("catppuccin")
