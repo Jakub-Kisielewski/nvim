@@ -13,3 +13,4 @@ opt.cursorline = true -- highlight current line
 opt.clipboard:append("unnamedplus") -- use system clipboard as default register
 
 vim.cmd.colorscheme("catppuccin")
+vim.g.mapleader = " "

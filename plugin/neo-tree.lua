@@ -11,3 +11,4 @@ vim.pack.add({
 })
 
 vim.keymap.set("n", "<C-n>", ":Neotree toggle<CR>", {} ) -- toggle neotree visibility
+
