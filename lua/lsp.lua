@@ -5,6 +5,7 @@ vim.lsp.enable({
   "lua_ls",  -- Lua
   "angularls", -- Angular
   "cssls", -- CSS
+  "pyright", -- python
 })
 
 vim.diagnostic.config({ virtual_text = true })

@@ -15,6 +15,6 @@ vim.pack.add({
 })
 
 require('nvim-treesitter').install({ 
-    "c", "lua", "vim", "vimdoc", "query", "markdown", "markdown_inline", "java", "cpp"
+    "c", "lua", "vim", "vimdoc", "query", "markdown", "markdown_inline", "java", "cpp", "python"
 })
 
