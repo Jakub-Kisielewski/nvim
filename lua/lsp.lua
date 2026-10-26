@@ -3,8 +3,6 @@ vim.lsp.enable({
   "clangd",  -- C and C++
   "jdtls",   -- Java
   "lua_ls",  -- Lua
-  "angularls", -- Angular
-  "cssls", -- CSS
   "pyright", -- python
 })
 
